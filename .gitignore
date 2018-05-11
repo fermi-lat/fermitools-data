@@ -3,4 +3,4 @@
 # the Anaconda cloud's fermi_dev_external channel.  If you must check it out from git via this package, comment
 # out the filename below:
 
-gll_iem_v06.fits
+#gll_iem_v06.fits
