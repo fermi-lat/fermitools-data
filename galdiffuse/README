@@ -1,0 +1,11 @@
+The IEM is the same as the one in v5r0 and is symlinked from that directory.
+
+The isotropic files are for the P305 dataset.  Information about the derivation can be found at
+https://confluence.slac.stanford.edu/display/SCIGRPS/2017/11/14/Isotropic+templates+for+P305+events
+
+The event types and event classes are encoded in the filename.
+
+These files are updated versions of the v5r1 files.  They include taking into account the sky
+dependence of the PSF and the difference in zenith angle cut between data and model.
+https://confluence.slac.stanford.edu/display/SCIGRPS/2018/08/16/Effect+of+separating+event+types+on+IRF+convolution
+https://confluence.slac.stanford.edu/display/SCIGRPS/Pass8+4+years+and+3FGL#Pass84yearsand3FGL-Exposure
