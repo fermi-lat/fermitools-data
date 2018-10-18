@@ -6,7 +6,7 @@
  B =    60.58
  Ra =    209.4
  Dec =    2.355
- Theta =    1.358
+ Theta =    1.359
  Phi =    177.9
  Redshift =   0.7652
  Fluence = 8.622e-05
